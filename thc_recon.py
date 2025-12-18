@@ -1,7 +1,7 @@
 # A tool written to make use of the THC API to fetch domains/subdomains of a given IP address or root domain.
 # Written by: Tommy DeVoss aka dawgyg (dawgyg@gmail.com / https://x.com/thedawgyg)
 # toolname: thc_recon.py
-# version: 1.0
+# version: 1.1
 #
 # Features:
 # - Fetch all hosts for a provided IP or root domain
