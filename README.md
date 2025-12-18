@@ -7,8 +7,8 @@ https://x.com/thedawgyg
 
 # Current tools:
 - thc_recon.py - Script to use the THC Subdomain Lookup API to get subdomains for a given IP/IP Range/Root domain.
+- thc_livecheck.py - Helper tool for thc_recon.py that will take the generated list of domains and find the active webservers on those hosts.
 
 
 # Upcoming Scripts:
 - xss_hunter.py - Site crawler, indexer, reflective parameter detection to aid in finding Reflected XSS (and additional vulns in the future)
-- thc_livecheck.py - Helper tool for thc_recon.py that will take the generated list of domains and find the active webservers on those hosts.
