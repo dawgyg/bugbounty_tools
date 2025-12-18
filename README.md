@@ -10,5 +10,6 @@ https://x.com/thedawgyg
 - thc_livecheck.py - Helper tool for thc_recon.py that will take the generated list of domains and find the active webservers on those hosts.
 
 
-# Upcoming Scripts:
+# Upcoming tools:
 - xss_hunter.py - Site crawler, indexer, reflective parameter detection to aid in finding Reflected XSS (and additional vulns in the future)
+- ssrf_hunter.py - Automated SSRF discovery tool. Will support Authenticated and Unauthenticated scans. Input single URL or file of hosts. More announced as work progresses.
